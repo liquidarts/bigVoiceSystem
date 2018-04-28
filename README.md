@@ -1,2 +1,2 @@
 # bigVoiceSystem
-Bot to speak chatted message into my house
+(Naver) Line bot to verbally output messages sent to the family group chat.
